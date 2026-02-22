@@ -1,6 +1,7 @@
 # Diabetes Health Project
 
-**Status:** Phase 1 (Project Initiation & Data Exploration)
+**Status:** Phase 2 - Data Preprocessing Completed.
+Applied data cleaning, outlier detection, and Spearman correlation for feature selection based on referenced research.
 
 
 ## Project Information
