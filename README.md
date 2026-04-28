@@ -1,7 +1,6 @@
 # Diabetes Health Project
 
-**Status:** Phase 2 - Data Preprocessing Completed.
-Applied data cleaning, outlier detection, and Spearman correlation for feature selection based on referenced research.
+**Status:** Project Completed. Successfully executed all three phases, including comprehensive data preprocessing, Classification (Decision Tree), and Clustering (K-Means). Final insights and predictive models for early diabetes detection are finalized.
  
 
 ## Project Information
